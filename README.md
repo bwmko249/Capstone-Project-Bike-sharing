@@ -1,4 +1,4 @@
-# Capstone-Project-Bike-sharing
+# Google-Data-Analytics-Capstone-Project-Cyclistic-Bike-sharing-Company
 An analysis on Cyclistic bike sharing data for Google analytics capstone project
 
 Powerpoint presentation showing insights and summary of the data.
